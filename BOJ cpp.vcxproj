@@ -27,7 +27,9 @@
     <ClCompile Include="2914.cpp" />
     <ClCompile Include="3003.cpp" />
     <ClCompile Include="3046.cpp" />
+    <ClCompile Include="5532.cpp" />
     <ClCompile Include="5543.cpp" />
+    <ClCompile Include="5596.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
